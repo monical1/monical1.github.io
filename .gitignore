@@ -3,7 +3,13 @@
 .AppleDouble
 .LSOverride
 
-
+# local eslint conf
+.eslintrc
+.stylelintignore
+.stylelintrc
+.idea
+.jekyll-cache
+.vscode
 
 # Thumbnails
 ._*
