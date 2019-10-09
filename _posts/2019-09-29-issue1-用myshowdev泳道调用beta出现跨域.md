@@ -1,5 +1,5 @@
 ---
-title: 用myshowdev泳道调用beta出现跨域
+title: issue1:用myshowdev泳道调用beta出现跨域
 tags: issues
 ---
 
