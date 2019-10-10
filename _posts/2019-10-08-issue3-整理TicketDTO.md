@@ -1,5 +1,5 @@
 ---
-title: issue3: 整理ticketDTO
+title: issue3:整理ticketDTO
 tags: issues
 ---
 
